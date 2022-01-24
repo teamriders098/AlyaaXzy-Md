@@ -1,17 +1,4 @@
-# Hisoka-Morou
-Base WhatsApp Bot Multi Device
-
-<p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">Hisoka-Morou</h1>
-
-This is Base of WhatsApp multi device, working with [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
-
-## My Project
-WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-
+Script base AlyaaXzy
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
@@ -34,7 +21,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/AlyaaXzy/AlyaaXzy-Md
 cd Hisoka-Morou
 npm install
 ```
@@ -56,13 +43,6 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/dashboard)
 * [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
+* [`AlyaaXzy`](https://github.com/AlyaaXzy/AlyaaXzy-Md)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
-
-Thanks For Donate
-

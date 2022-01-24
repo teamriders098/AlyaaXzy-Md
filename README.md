@@ -22,7 +22,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/AlyaaXzy/AlyaaXzy-Md
-cd Hisoka-Morou
+cd AlyaaXzy-Md
 npm install
 ```
 

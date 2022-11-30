@@ -12,7 +12,10 @@ git clone https://github.com/DikaArdnt/Hisoka-Morou
 cd Hisoka-Morou
 npm install
 ```
+## DEPLOY THROUGH HEROKU
 
+<a href="https://heroku.com/deploy?template=https://github.com/teamriders098/AlyaaXzy-Md/"><img align="center" src="https://github.com/Jetus-hack/Anya-pika-MD-v2/blob/Master/HomeScreen/AnyaPikaButtonHeroku.jpg" alt="Fork and deploy" height="65" width="230" /></a>
+</div>
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
